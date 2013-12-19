@@ -13,6 +13,9 @@ Features:
  * Ability to set triggers and send SMS or other alerts
  * Data graphing via Xively
 
+Current model:
+http://media-cache-ec0.pinimg.com/originals/6f/64/15/6f6415441c0feac76d538bdcf4146304.jpg
+
 New version proposed hardware list:
 
 Enclosure: https://www.sparkfun.com/products/11797
