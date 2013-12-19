@@ -38,3 +38,5 @@ Battery: http://www.adafruit.com/products/328
   
 Power Switch: http://www.digikey.com/product-detail/en/PRK22J5DBBNN/CH865-ND/1083858
   Notes: These are the smallest rocker switches I could find. Keep a few around.
+  
+Thermocouple Jacks and plugs: Still sourcing, as I am not satisfied with the current ones.
