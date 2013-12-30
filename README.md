@@ -13,8 +13,8 @@ Features:
  * Ability to set triggers and send SMS or other alerts
  * Data graphing via Xively
 
-Current model:
-http://media-cache-ec0.pinimg.com/originals/6f/64/15/6f6415441c0feac76d538bdcf4146304.jpg
+Current model:<img src="http://media-cache-ec0.pinimg.com/originals/6f/64/15/6f6415441c0feac76d538bdcf4146304.jpg" />
+
 
 New version proposed hardware list:
 
