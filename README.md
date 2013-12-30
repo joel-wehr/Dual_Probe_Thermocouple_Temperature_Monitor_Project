@@ -20,6 +20,9 @@ New version proposed hardware list:
 
 Enclosure: https://www.sparkfun.com/products/11797
   Notes: Adafruit has similar enclusures in other colors, but fewer endcaps. Those could be mixed in and/or painted.
+  I have created these two endcaps for this enclosure, but I have NOT yet received the first copies yet, so I would not recommend ordering them until I can verify they they have been created properly.
+  https://www.shapeways.com/model/1595632?materialId=6&li=ostatus
+  https://www.shapeways.com/model/1595441?materialId=6&li=ostatus
   
 Charging circuit: https://www.sparkfun.com/products/11231
   Notes: This charger is ideal with 5V output and undervoltage lockout.
@@ -41,5 +44,8 @@ Battery: http://www.adafruit.com/products/328
   
 Power Switch: http://www.digikey.com/product-detail/en/PRK22J5DBBNN/CH865-ND/1083858
   Notes: These are the smallest rocker switches I could find. Keep a few around.
+  
+Power Connector: http://www.digikey.com/product-detail/en/PJ-033A/CP-033A-ND/1644529
+  Notes: This is a nice small barrel connector that will be mounted on the top of the enclosure. 
   
 Thermocouple Jacks and plugs: Still sourcing, as I am not satisfied with the current ones.
