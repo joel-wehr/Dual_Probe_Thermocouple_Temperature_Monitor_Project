@@ -65,3 +65,5 @@ This pdf shows where you will need to solder jumper wires to the BOTTOM of the p
 The Yellow circles show were you should have solder joints for the breakout boards, and the yellow lines show were you should have a wire jumper. Only solder the jumpers down at the ENDS, and do not connect any pads in between.
 
 https://www.dropbox.com/s/jpgsjsh3i7ed7bo/Protoboard_Wiring_Diagram.pdf
+
+You need to solder two wires to the top of each of the thermocouple breakouts, that will connect to the thermocouple jacks on our enclosure. You should leave 4-6" of extra wire to route to the top.
