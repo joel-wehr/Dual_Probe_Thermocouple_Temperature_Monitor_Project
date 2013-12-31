@@ -49,3 +49,6 @@ Power Connector: http://www.digikey.com/product-detail/en/PJ-033A/CP-033A-ND/164
   Notes: This is a nice small barrel connector that will be mounted on the top of the enclosure. 
   
 Thermocouple Jacks and plugs: Still sourcing, as I am not satisfied with the current ones.
+
+https://www.dropbox.com/s/pxw5rpvt6y4h0es/Protoboard_Drill_Locations.pdf
+https://www.dropbox.com/s/jpgsjsh3i7ed7bo/Protoboard_Wiring_Diagram.pdf
