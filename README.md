@@ -50,5 +50,18 @@ Power Connector: http://www.digikey.com/product-detail/en/PJ-033A/CP-033A-ND/164
   
 Thermocouple Jacks and plugs: Still sourcing, as I am not satisfied with the current ones.
 
+Instructions: (These are just notes so far, so follow them at your own risk!)
+
+First you will need to drill holes in the protoboard to allow it to be fastened to the enclosure. The easiest way is to drill out an existing hole, and then use the bit to work the hole in the direction that you need. Note that the Adafruit protoboard holes are slightly different than the Sparkfun board holes along the + - bus lines. Other hole patterns should be similar. You will need to use the extra standoff caps provided to lift the board up a bit. Drill carefully and make sure you board can be screwed in place easily and square with the enclosure. The approximate hole locations are shown here. THIS IS THE BOARD TOP VIEW!
+
 https://www.dropbox.com/s/pxw5rpvt6y4h0es/Protoboard_Drill_Locations.pdf
+
+Next you will need to solder the April breakout, LiPo charger and thermocouple breakouts to the protoboard. The April board lies competely flat on the protoboard, so do not leave any plastic header standoffs in place. Clip all of the extra header when finished. Make sure the April board is perfectly square with the protoboard when you solder. It needs to line up with the enclosure bottom cap. Use tape to hold it in place. The other breakout boards should have black plastic standoffs on the header pins so that they stand up off the protoboard. 
+
+The jumper is not needed on the April board since will we supply power directly to VIN, so remove it, and either snip the jumpers header pins down at the board, or remove them completely with a soldering iron. 
+
+This pdf shows where you will need to solder jumper wires to the BOTTOM of the protoboard. We will not be soldering anything to the top of the board. Six wires go off of the board to other components, and you will need to leave 4-6" of additional wire depending on how you route it. 
+
+The Yellow circles show were you should have solder joints for the breakout boards, and the yellow lines show were you should have a wire jumper. Only solder the jumpers down at the ENDS, and do not connect any pads in between.
+
 https://www.dropbox.com/s/jpgsjsh3i7ed7bo/Protoboard_Wiring_Diagram.pdf
