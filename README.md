@@ -67,3 +67,5 @@ The Yellow circles show were you should have solder joints for the breakout boar
 https://www.dropbox.com/s/jpgsjsh3i7ed7bo/Protoboard_Wiring_Diagram.pdf
 
 You need to solder two wires to the top of each of the thermocouple breakouts, that will connect to the thermocouple jacks on our enclosure. You should leave 4-6" of extra wire to route to the top.
+
+https://www.dropbox.com/s/vmyt6h0pylt5xni/Protoboard_layout.jpg
